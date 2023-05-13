@@ -75,7 +75,7 @@ main section {
   transition: all;
 }
 .main-text .btn:hover {
-  opacity: 0.85; /*vai clarear o botão qnd colocar por cima*/
+  opacity: 0.85;
 }
 .main-text .text h5 {
   font-size: 1rem;
@@ -123,7 +123,7 @@ main section {
   transform: rotate(-7deg);
 }
 .circle {
-  position: absolute; /*indica que o elemento ficara em uma posição fixa em relação a página*/
+  position: absolute; /*o elemento ficará em uma posição fixa em relação a página*/
   top: 0;
   left: 0;
   width: 100%;
